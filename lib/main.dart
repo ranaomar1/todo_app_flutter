@@ -14,6 +14,6 @@ class TaskApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Task Manager',
       home: const HomeScreen(),
-    );
+    ); //MaterialApp
   }
 }
