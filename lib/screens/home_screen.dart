@@ -64,7 +64,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 decoration: tasks[index].isDone
                     ? TextDecoration.lineThrough
                     : null,
-              ),
+              ), //textstyle
             ),
             leading: Checkbox(
               value: tasks[index].isDone,
