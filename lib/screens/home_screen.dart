@@ -65,7 +65,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     ? TextDecoration.lineThrough
                     : null,
               ),
-            )
+            ),
             leading: Checkbox(
               value: tasks[index].isDone,
               onChanged: (_) => toggleTask(index),
