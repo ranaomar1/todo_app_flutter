@@ -74,7 +74,7 @@ class _HomeScreenState extends State<HomeScreen> {
               icon: const Icon(Icons.delete),
               onPressed: () => deleteTask(index),
             ),
-          ); //ListTile
+          );
         },
       ),
       floatingActionButton: FloatingActionButton(
