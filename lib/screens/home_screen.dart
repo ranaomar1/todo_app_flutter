@@ -79,7 +79,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: showAddDialog,
-        child: const Icon(Icons.add),
+        child: const Icon(Icons.add),   //icon
       ),
     );
   }
