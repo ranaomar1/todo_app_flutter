@@ -2,9 +2,7 @@ import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
 
 void main() {
-  runApp(const TaskApp()); ///////////////////jkhlihoj'j
-  //kjblnl//jhbihuo
-  //iuhbuo
+  runApp(const TaskApp());
 }
 
 //hkbkbli
