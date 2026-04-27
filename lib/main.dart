@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
 
 void main() {
-  runApp(const TaskApp());
+  runApp(const TaskApp()); ///////////////////jkhlihoj'j
 }
 
 class TaskApp extends StatelessWidget {
