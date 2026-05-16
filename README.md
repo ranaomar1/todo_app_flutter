@@ -5,6 +5,7 @@
 A simple and clean task management application built with Flutter.
 It helps users organize daily tasks efficiently.
 
+![ToDo App](assets/images/ToDoList.png)
 ---
 
 ## 🚀 Features
@@ -39,6 +40,6 @@ It helps users organize daily tasks efficiently.
 
 ---
 
-![ToDo App](assets/images/ToDoList.png)
+
 
 ⭐ Don't forget to star the repo!
